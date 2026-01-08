@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gavin Reider
 
-<!--
-**gavinreider/gavinreider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate at Cornell University studying Mathematics and Physics (Class of 2026). I'm interested in stochastic processes, scientific computing, and data-driven modeling.
 
-Here are some ideas to get you started:
+My current focus is on how random fluctuations at the microscopic scale can reveal important thermodynamic structure. I also explore how similar mathematical tools can be used in financial modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Work
+- **Experimental Determination of Boltzmann’s Constant**  
+  I used particle tracking and video microscopy to analyze the Brownian motion of microspheres in water. I created Python-based analysis pipelines to estimate Boltzmann’s constant using both sedimentation equilibrium and Einstein-Smoluchowski diffusion models.  
+  → [View the project here](https://github.com/gavinreider/brownian-motion-kB)
+
+### Interests
+- Stochastic processes and random walks  
+- Quantitative finance and algorithmic modeling  
+- Simulation-based inference  
+- Python and scientific computing  
+
+### Let’s connect  
+Feel free to reach out if you’re working on problems that involve uncertainty, noise, or predictive modeling, whether in physics, finance, or anything in between.
