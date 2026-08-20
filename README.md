@@ -1,6 +1,6 @@
 # Hi, I'm Gavin Reider
 
-I'm a Mathematics and Physics graduate from Cornell University and an incoming Master of Financial Mathematics student at NC State University. I'm interested in quantitative research and development, with a focus on stochastic modeling, algorithmic trading, and scientific computing.
+I'm a Mathematics and Physics graduate from Cornell University and an current Master of Financial Mathematics student at NC State University. I'm interested in quantitative research and development, with a focus on stochastic modeling, algorithmic trading, and scientific computing.
 
 My work spans quantitative finance, computational physics, and software engineering. I enjoy building data-driven systems, working with noisy real-world data, and using mathematical models to understand complex systems.
 
