@@ -7,7 +7,7 @@ My work spans quantitative finance, computational physics, and software engineer
 ### Featured Projects
 
 - **Algorithmic Trading of Ethereum and Solana Token Launches**  
-  Built an end-to-end research, backtesting, and paper-trading system for newly launched tokens across Ethereum and Solana. The project includes point-in-time feature engineering across 80K+ historical launches, walk-forward machine learning models for candidate ranking and risk detection, and execution-aware backtesting with AMM price impact, transaction costs, liquidity constraints, and portfolio risk controls.  
+  Built an end-to-end research, backtesting, and paper-trading system for newly launched tokens across Ethereum and Solana. The project includes point in time feature engineering across 80K+ historical launches, walk forward machine learning models for candidate ranking and risk detection, and execution aware backtesting with AMM price impact, transaction costs, liquidity constraints, and portfolio risk controls.  
   → [View the project here](https://github.com/gavinreider/meme-coin-research)
 
 - **Experimental Determination of Boltzmann's Constant**  
